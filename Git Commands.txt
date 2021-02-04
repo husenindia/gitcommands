@@ -1,0 +1,5 @@
+When Remote already added and need to add new remote
+git remote rm origin 
+
+Add new remote HTTPS
+git remote add origin https://github.com/husenindia/Demo1.git
