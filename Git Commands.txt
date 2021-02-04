@@ -1,5 +1,20 @@
 When Remote already added and need to add new remote
-git remote rm origin 
+> git remote rm origin 
 
 Add new remote HTTPS
-git remote add origin https://github.com/husenindia/Demo1.git
+> git remote add origin https://github.com/husenindia/Demo1.git
+
+When two branches have entirely different history at that time Pull using this comman
+> git pull origin branch-name --allow-unrelated-histories
+.git/index.lock': Remove it manually.
+
+Push some branch to master
+> git push origin branch-name
+
+
+Pull some branch to master
+> git pull origin branch-name 
+
+Push and pull to master 
+> git pull origin master
+> git push origin master
