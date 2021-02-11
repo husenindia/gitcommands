@@ -1,3 +1,7 @@
+Know the exiting remote information:
+> git remote -v
+
+
 When Remote already added and need to add new remote
 > git remote rm origin 
 
@@ -18,3 +22,5 @@ Pull some branch to master
 Push and pull to master 
 > git pull origin master
 > git push origin master
+
+
