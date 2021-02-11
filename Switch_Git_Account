@@ -1,0 +1,7 @@
+
+Generally VSCode uses the github credentials from system's credential manager, it doesn't store anywhere in the settings. As question says Changing the git user inside Visual Studio Code, is not inside rather outside.
+
+Search for or Go to credential manager (Windows control panel) -> Windows Credentials -> Update the GitHub password from the list.
+
+
+Ref : https://stackoverflow.com/questions/42318673/changing-the-git-user-inside-visual-studio-code/42319503#:~:text=As%20question%20says%20Changing%20the,GitHub%20password%20from%20the%20list.
